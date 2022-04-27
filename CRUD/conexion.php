@@ -2,7 +2,7 @@
 
 session_start();
 
-$host = "localhost:33065";
+$host = "localhost";
 $user = "root";
 $password = "";
 $bd = "databaseweb";
